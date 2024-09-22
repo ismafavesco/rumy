@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "rumy",
+			"path": "."
+		},
+		{
+			"name": "public",
+			"path": "../../Downloads/snapgram_public/public"
+		}
+	],
+	"settings": {}
+}
